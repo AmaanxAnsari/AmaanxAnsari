@@ -4,9 +4,18 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Amaan-green)](https://www.Amaan)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Amaan-yellow)](https://stackoverflow.com/users/3687251/Amaan-)
 
-I'm
-4th Year Computer Engineering Student
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (Python), design (working closely with designers), front-end development (HTML5, CSS3, Javascript, Jquery, UX,Bootstrap, React), Database(Mysql, MongoDB).
+  Hello, 
+  I'm Amaan Ansari, a dedicated web development
+  professional with one year of hands-on experience. In my
+  journey over the past year, I've actively engaged in both
+  front-end and back-end development, crafting solutions that
+  prioritize functionality, user experience, and aesthetic
+  appeal.
+    Thank you for visiting my profile. I'm excited about the
+    opportunity to leverage my skills and knowledge to contribute
+    to your digital projects. Let's collaborate to create
+    innovative and effective web solutions that meet your unique
+    needs.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/AmaanxAnsari/count.svg)
